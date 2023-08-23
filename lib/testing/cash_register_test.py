@@ -117,3 +117,7 @@ class TestCashRegister:
       assert(self.cash_register.total == 0.0)
       self.reset_register_totals()
       
+      
+      
+      
+     
